@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/vIndecater"
+        android:layout_width="@dimen/_16sdp"
+        android:background="@drawable/xml_indecater"
+        android:layout_height="@dimen/_70sdp"/>
+    <!-- Your indicator view or layout goes here -->
+
+</FrameLayout>
